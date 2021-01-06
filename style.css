@@ -1,0 +1,210 @@
+body {
+  margin: 0;
+}
+
+/* Section 1 */
+
+h1 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 80px;
+}
+h1.hi-there-name {
+  margin-bottom: -5px;
+}
+.color-of-hi-there {
+  color: #002b66;
+}
+.color-of-myname {
+  color: #e6384e;
+}
+h3 {
+  font-family: "Roboto", sans-serif;
+  color: #3e3e3e;
+}
+h3.short-about-me {
+  padding-bottom: 40px;
+  width: 60%;
+}
+section.big-section {
+  height: 500px;
+  padding: 100px;
+}
+section.small-section {
+  height: 200px;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+}
+.myphoto-s {
+  width: 90%;
+}
+.link-button {
+  padding: 20px 60px;
+  border-radius: 5px;
+  background-image: linear-gradient(45deg, #ff8063, #f46060);
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+/* Section 2 */
+
+h2.about-text-color {
+  font-family: "Bebas Neue", cursive;
+  font-size: 48px;
+  color: #002b66;
+}
+h3.long-about-me {
+  padding-bottom: 40px;
+}
+.about-s2 {
+  margin-left: 12%;
+}
+
+/* Section 3*/
+
+.banner-s3 {
+  background-color: #e5e5e5;
+  padding-bottom: 220px;
+}
+h2.latest-project {
+  font-family: "Bebas Neue", cursive;
+  font-size: 48px;
+  text-align: center;
+  color: #002b66;
+}
+span.h2-text-color {
+  color: #e6384e;
+}
+.latest-project-div-style {
+  height: 80%;
+  width: 30%;
+  background-color: white;
+  float: left;
+  margin: 15px;
+  border-radius: 15px;
+  box-shadow: 8px 8px 40px gray;
+}
+.latest-project-div-style-margin {
+  margin-left: 35px;
+}
+.latest-project-photo {
+  width: 90%;
+  margin: 18px 18px 0px 18px;
+}
+
+/* Section 4*/
+
+.my-skills {
+  font-family: "Bebas Neue", cursive;
+  font-size: 48px;
+  text-align: center;
+  color: #002b66;
+}
+.skills-p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+}
+.container {
+  width: 100%;
+  border-radius: 10px;
+  background-color: #ddd;
+}
+.skills {
+  text-align: right;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+  color: white;
+}
+.html {
+  width: 80%;
+  background-color: #002b66;
+}
+.css {
+  width: 70%;
+  background-color: #e6384e;
+}
+.illustrator {
+  width: 80%;
+  background-color: #002b66;
+}
+.photoshop {
+  width: 60%;
+  background-color: #e6384e;
+}
+.team-management {
+  width: 70%;
+  background-color: #e6384e;
+}
+.critical-thinking {
+  width: 75%;
+  background-color: #002b66;
+}
+.problem-solving {
+  width: 65%;
+  background-color: #e6384e;
+}
+.communication {
+  width: 75%;
+  background-color: #002b66;
+}
+
+/* Section 5 */
+
+.div-size-s4 {
+  height: 115%;
+  width: 115%;
+  background-image: url("shapes/Group_33094_1.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-left: 300px;
+}
+.work-inquiry-s4 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 64px;
+  color: white;
+  padding-left: 4%;
+}
+.float-s4 {
+  padding-top: 4.5%;
+  float: left;
+}
+.lets-chat-s4 {
+  padding-top: 6%;
+  padding-left: 18%;
+}
+
+/* Footer */
+
+p.stay-connected {
+  font-family: "Bebas Neue", cursive;
+  font-size: 24px;
+  color: #696871;
+  text-align: center;
+}
+p.footer-mail {
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  color: #363958;
+  margin: -2px;
+}
+img.footer-image-size {
+  height: 38px;
+  width: 38px;
+  padding: 10px;
+}
+footer {
+  padding-bottom: 60px;
+}
+.footer-image-position {
+  padding-top: 20px;
+  padding-left: 665px;
+}
