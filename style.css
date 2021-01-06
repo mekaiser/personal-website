@@ -97,6 +97,15 @@ span.h2-text-color {
   width: 90%;
   margin: 18px 18px 0px 18px;
 }
+.latest-project-text {
+  padding-left: 20px;
+}
+.latest-project-div-style p {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  padding-left: 20px;
+  color: #6c6c6c;
+}
 
 /* Section 4*/
 
@@ -116,6 +125,7 @@ span.h2-text-color {
   background-color: #ddd;
 }
 .skills {
+  font-family: "Roboto", sans-serif;
   text-align: right;
   padding-top: 5px;
   padding-bottom: 5px;
