@@ -25,14 +25,21 @@ h3.short-about-me {
   padding-bottom: 40px;
   width: 60%;
 }
-section.big-section {
-  height: 500px;
-  padding: 100px;
+.big-section {
+  height: 600px;
+  padding: 80px 100px;
 }
-section.small-section {
-  height: 200px;
-  padding-top: 100px;
-  padding-bottom: 50px;
+.big-section-2 {
+  height: 600px;
+  padding: 80px 100px 120px 100px;
+}
+.small-section {
+  height: 240px;
+  padding-top: 50px;
+  padding-bottom: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .half-width {
   width: 40%;
@@ -40,7 +47,7 @@ section.small-section {
   margin-left: 5%;
 }
 .myphoto-s {
-  width: 90%;
+  width: 75%;
 }
 .link-button {
   padding: 20px 60px;
@@ -70,7 +77,6 @@ h3.long-about-me {
 
 .banner-s3 {
   background-color: #e5e5e5;
-  padding-bottom: 220px;
 }
 h2.latest-project {
   font-family: "Bebas Neue", cursive;
@@ -168,26 +174,20 @@ span.h2-text-color {
 /* Section 5 */
 
 .div-size-s4 {
-  height: 115%;
-  width: 115%;
+  height: 236px;
+  width: 950px;
   background-image: url("shapes/Group_33094_1.png");
   background-repeat: no-repeat;
-  background-size: contain;
-  margin-left: 300px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 .work-inquiry-s4 {
   font-family: "Bebas Neue", cursive;
   font-size: 64px;
   color: white;
-  padding-left: 4%;
-}
-.float-s4 {
-  padding-top: 4.5%;
-  float: left;
 }
 .lets-chat-s4 {
-  padding-top: 6%;
-  padding-left: 18%;
 }
 
 /* Footer */
@@ -216,5 +216,7 @@ footer {
 }
 .footer-image-position {
   padding-top: 20px;
-  padding-left: 665px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
